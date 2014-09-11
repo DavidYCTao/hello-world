@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-First personal repository
+First personal repository for learning how to use GitHub.
+
